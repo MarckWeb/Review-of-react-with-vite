@@ -1,0 +1,18 @@
+.formulario{
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px auto;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+}
+
+button{
+    width: 100px;
+}
